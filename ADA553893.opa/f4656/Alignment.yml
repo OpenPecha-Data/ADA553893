@@ -1,0 +1,16 @@
+segment_sources:
+  IE31E3A5B:
+    type: origin_type
+    relation: translation
+    language: en
+  I5475AA53:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  b3843f0cdafc427da705fd777f754694:
+    IE31E3A5B: 8df256c6af1846c08bbb48472f080fd1
+    I5475AA53: 82006d6bb2d145b68a1e3c19729aa127
+  be60d66299bb4b3c9229cf0b186e30e4:
+    IE31E3A5B: f58bd46cf7564e22abd31c4a6c5e3d7b
+    I5475AA53: 4f47ca4b28a94a969a282d2172708dba
